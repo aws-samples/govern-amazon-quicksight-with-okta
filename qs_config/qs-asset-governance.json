@@ -1,0 +1,15 @@
+{
+   "assets":[
+      {
+         "name": "reddit_comments",
+         "category":"dataset",
+         "namespace":"default",
+         "groups": [
+            "qs_dev_group_ops",
+            "qs_dev_group_finance",
+            "qs_dev_group_hr"
+         ],
+         "permission": "READ"
+      }
+   ]
+}
