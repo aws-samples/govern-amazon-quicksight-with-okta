@@ -1,4 +1,4 @@
-# QuickSight Governance via Okta
+# Govern Amazon QuickSight with Okta
 
 ## Centrally manage QuickSight Namespaces, Groups, Users, and Assets while integrating with Okta
 
